@@ -1,0 +1,25 @@
+.transport {
+    background: #0a0a0a;
+    padding: 6rem 2rem;
+    text-align: center;
+}
+
+.transport__title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin: 0 0 4rem;
+}
+
+.transport__map {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.transport__map img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
